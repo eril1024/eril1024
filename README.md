@@ -27,11 +27,6 @@
   <a href="https://positivedev.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://positivedev.tistory.com/"/></a>&nbsp
   <a href="mailto:eril1024@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eril1024@gmail.com"/></a>
 </p>
-<br>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-![eril1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=eril1024&show_icons=true&theme=dark)
-</div>
 
 <!--
 **eril1024/eril1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
