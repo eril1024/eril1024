@@ -29,9 +29,8 @@
 </p>
 <br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-
 <div align="center">
-![eril1024's github stats](https://github-readme-stats.vercel.app/api?username=eril1024&show_icons=true)
+![eril1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=eril1024&show_icons=true&theme=dark)
 </div>
 
 <!--
