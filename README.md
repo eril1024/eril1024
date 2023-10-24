@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=66FFFF&height=300&section=header&text=Junsung%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CC723D&height=300&section=header&text=Junsung%20Kim&fontSize=90)
 <br>
 <h3 align="center">😄 Intro 😄</h3>
 <p align="center">안녕하세요. 자바 백엔드 개발자 김준성입니다. <br>세상에 좋은 가치를 줄 수 있는 개발자로 성장하기 위해 꾸준히 노력하고 있습니다.</p>
