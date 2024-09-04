@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=CC723D&height=300&section=header&text=Junsung%20Kim&fontSize=90)
-<br>
 <h3 align="center">😄 Intro 😄</h3>
 <p align="center">안녕하세요. 자바 백엔드 개발자 김준성입니다.</p>
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -28,7 +26,6 @@
   <a href="mailto:eril1024@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=eril1024@gmail.com"/></a>
 </p>
 <br>
-
 <!--
 **eril1024/eril1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![eril1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=eril1024&show_icons=true&theme=cobalt)
